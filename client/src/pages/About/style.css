@@ -1,0 +1,28 @@
+#entireArea {
+    border: solid black;
+}
+
+.aboutMe {
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: white;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+img {
+    width: 100%;
+}
+
+.myInfo {
+    font-size: 25px;
+}
+
+.background {
+    background-image: url(../../images/vintage-wallpaper.png);
+    padding: 2%;
+}
